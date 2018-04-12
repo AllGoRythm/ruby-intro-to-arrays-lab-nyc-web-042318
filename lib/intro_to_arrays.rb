@@ -20,6 +20,6 @@ def last_element(array)
   array.last
 end
 
-def first_element_with_array_method
+def first_element_with_array_method(array)
   array.first
 end
