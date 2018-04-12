@@ -7,3 +7,7 @@ def array_with_two_elements
   withTwo = ["element1", "element2"]
   return withTwo
 end
+
+def first_element
+
+end
